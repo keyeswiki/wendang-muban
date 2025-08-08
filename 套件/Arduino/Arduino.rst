@@ -7,7 +7,10 @@ Arduino
 IDE模板
 =========
 
+.. toctree::
+    :maxdepth: 1
 
+    IDE
 
 
 教程

@@ -7,6 +7,12 @@ KidsBlock
 IDE模板
 =========
 
+.. toctree::
+    :maxdepth: 1
+
+    IDE
+
+
 
 
 
