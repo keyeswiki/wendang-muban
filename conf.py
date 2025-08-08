@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'keyestudio WiKi'
+project = '文档模板'
 copyright = 'keyestudio , WiKi'
 author = 'keyestudio WiKi'
 copyright = 'Shenzhen keyestudio Technology Co., Ltd'
