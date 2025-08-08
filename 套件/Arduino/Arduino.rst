@@ -8,7 +8,7 @@ IDE模板
 =========
 
 .. toctree::
-    :maxdepth: 0
+    :maxdepth: 1
 
     IDE
 
@@ -18,7 +18,7 @@ IDE模板
 
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     教程/教程1
     教程/教程2
