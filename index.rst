@@ -1,6 +1,6 @@
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 0
    :caption: keyes 文档模板
 
    README.md
