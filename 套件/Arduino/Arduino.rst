@@ -1,6 +1,12 @@
 4 Arduino
 ========
 
+这里负责Arduino教程，文件必须是rst格式，使用restructuredtext语法，
+
+* 分辨率最大1000x1000
+* 图片格式没有要求，但是建议jpg png
+
+
 4.1 下载
 =========
 
