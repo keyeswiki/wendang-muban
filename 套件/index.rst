@@ -7,7 +7,7 @@
 
    README.md
    产品介绍
-   驱动安装
+   产品安装
    驱动安装
    Arduino/Arduino
    KidsBlock/KidsBlock
