@@ -1,7 +1,9 @@
+keyes 套件模板
+=============
+
 
 .. toctree::
    :maxdepth: 3
-   :caption: keyes 套件模板
 
    README.md
    产品介绍
