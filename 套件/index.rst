@@ -3,7 +3,7 @@
 
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
 
    README.md
    产品介绍
