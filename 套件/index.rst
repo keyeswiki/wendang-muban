@@ -1,6 +1,7 @@
 套件模板
 =======
 
+:download:`下载套件模板 <./套件.7z>`
 
 .. toctree::
    :maxdepth: 1
@@ -13,10 +14,6 @@
    KidsBlock/KidsBlock
    Mixly/Mixly
    问题解答
-
-
-:download:`下载套件模板 <./套件.7z>`
-
 
 
 
